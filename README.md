@@ -8,7 +8,7 @@ Table of Contents
 - [Prerequisites](#prerequisites)
 - [List of Gems](#list-of-gems)
 - [Getting Started](#getting-started)
-- [Running the Test Suite](#running-the-test -suite)
+- [Running the Test Suite](#running-the-test-suite)
 - [Contributing](#contributing)
 
 Project Structure
@@ -70,6 +70,7 @@ $cd myproject
 $bundle install
 ```
 [Configure your local database connection](#database_config)
+
 You can now run the app as normal:
 
 ``` bash
