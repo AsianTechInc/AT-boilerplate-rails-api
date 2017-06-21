@@ -1,0 +1,2 @@
+class BadRequestError < ApplicationError
+end
