@@ -1,4 +1,3 @@
-# README
 ![ruby-plus-json](https://user-images.githubusercontent.com/16132307/27371550-7e1c27b4-568b-11e7-8043-192a1ad51774.png)
 
 Table of Contents
@@ -11,6 +10,7 @@ Table of Contents
 - [Getting Started](#getting-started)
 - [Running the Test Suite](#running-the-test -suite)
 - [Contributing](#contributing)
+
 Project Structure
 --------
 ![structure](https://user-images.githubusercontent.com/16132307/27372120-af3210be-568d-11e7-936d-59a91e25062c.jpg)
@@ -21,6 +21,7 @@ Project Structure
 - Validations are implemented **CONTRACT**
 - **MODEL** contain associations, scopes and finders. Only persistence logic, no callbacks, no validations, no business logic here.
 - **ERROR** try catch all exceptions
+
 Features
 --------
 - MVC Project Structure
@@ -108,4 +109,4 @@ rspec
 ```
 Contributing
 ------------
-If something is unclear, confusing, or needs to be refactored, please let me know. Pull requests are always welcome, but due to the opinionated nature of this project, I cannot accept every pull request. Please open an issue before submitting a pull request. 
+If something is unclear, confusing, or needs to be refactored, please let me know. Pull requests are always welcome, but due to the opinionated nature of this project, I cannot accept every pull request. Please open an issue before submitting a pull request.
